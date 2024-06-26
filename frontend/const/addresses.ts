@@ -1,0 +1,1 @@
+export const PVENMODE_CONTRACT_ADDRESS = '';
